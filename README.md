@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ARYANGS
-- 👀 I’m interested in coding and cybersecurity
+- 👋 Hi, I’m @snowy
+- 👀 interests: coding and cysec
 - 📫 email- aryansuktekar@gmail.com
 
 <!---
